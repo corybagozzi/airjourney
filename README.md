@@ -80,10 +80,7 @@ To start the bot, run the following command in the project directory:
 node index.js
 ```
 
-The bot will now listen for messages from the specified user in the specified channel and send the data to your Airtable database. The bot expects the messages to have the following structure:
-
-- The first part of the message should be the prompt, followed by a double hyphen (--).
-- The message should have an image attachment.
+The bot will now listen for messages from the Midjourney Bot in the specified channel and send the data to your Airtable database.
 
 When the bot receives a message from the specified user, it will extract the prompt, image attachment, and message link, then send this data to your Airtable table with the fields "Prompt", "Image", and "Message Link".
 
