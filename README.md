@@ -1,6 +1,6 @@
 # AirJourney - Discord Bot to Airtable
 
-This Discord bot listens to a specific channel for messages from the MidJourney Bot. When the specified user posts a message, the bot extracts the data from the message and sends it to an Airtable database.
+This Discord bot listens to a specific channel for messages from the MidJourney Bot. When the Midjourney Bot returns your image in a message, the bot extracts the data from the message and sends it to an Airtable database. This sends both the initial options image and the upscaled image as each message comes in.
 
 ## Prerequisites
 
