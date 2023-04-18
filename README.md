@@ -66,13 +66,13 @@ npm install
 ## Configuration
 
 Create a `.env` file in the project root directory with the following variables:
-
-- `DISCORD_BOT_TOKEN`: Your Discord bot's token (from Discord Application and Bot Setup)
-- `USER_ID`: The User ID of the Midjourney Bot invited to your server's channel
-- `AIRTABLE_TOKEN`: Your Airtable Personal Access Token
-- `AIRTABLE_BASE_ID`: The ID of your Airtable base (from Airtable Setup)
-- `AIRTABLE_TABLE_ID`: The ID of the table where you want to store the data (from Airtable Setup)
-
+```
+DISCORD_BOT_TOKEN=Your Discord bot's token (from Discord Application and Bot Setup)
+USER_ID=The User ID of the Midjourney Bot invited to your server's channel
+AIRTABLE_TOKEN=Your Airtable Personal Access Token
+AIRTABLE_BASE_ID=The ID of your Airtable base (from Airtable Setup)
+AIRTABLE_TABLE_ID=The ID of the table where you want to store the data (from Airtable Setup)
+```
 ## Usage
 
 To start the bot, run the following command in the project directory:
