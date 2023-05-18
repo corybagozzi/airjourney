@@ -1,4 +1,5 @@
-# AirJourney: Supercharge Your Discord to Airtable Workflow with AI-Powered Efficiency
+# AirJourney
+## Supercharge Your MidJourney to Airtable Workflow with AI-Powered Efficiency
 
 Do you find the task of transferring Discord messages to your Airtable database tedious and time-consuming? Say hello to AirJourney - a revolutionary Discord bot designed to bridge this gap. Acting as an intelligent courier between your Discord channel and Airtable base, AirJourney automatically listens to the MidJourney Bot, captures all messages it produces, and diligently transmits this data to your Airtable database. Experience the joy of a streamlined workflow as both initial option images and the corresponding upscaled versions are seamlessly delivered to your database, freeing you up to focus on what really matters.
 
