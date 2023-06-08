@@ -1,9 +1,11 @@
 # AirJourney
-## Supercharge Your MidJourney to Airtable Workflow with AI-Powered Efficiency
+## Supercharge Your Midjourney to Airtable Workflow with AI-Powered Efficiency
 
-Do you find the task of transferring Discord messages to your Airtable database tedious and time-consuming? Say hello to AirJourney - a revolutionary Discord bot designed to bridge this gap. Acting as an intelligent courier between your Discord channel and Airtable base, AirJourney automatically listens to the MidJourney Bot, captures all messages it produces, and diligently transmits this data to your Airtable database. Experience the joy of a streamlined workflow as both initial option images and the corresponding upscaled versions are seamlessly delivered to your database, freeing you up to focus on what really matters.
+[Midjourney](https://midjourney.com) is an awesome AI tool for ideation and building out a toolkit of images you can use for marketing, art, and design work.
 
+One issue I have with it is that there is no way to store and categorize the images after I make them so I have to scroll through the site or [Discord](https://discord.com) and try to remember how long ago it was that I made that cool picture and what the prompt was. I wanted a way to get these images and prompts into an [Airtable](https://airtable.com) database, but copy/pasting and uploading images is way too tedious. To solve this I created a [Discord](https://discord.com) bot that listens to the channel in my personal [Discord](https://discord.com) server where I do my [Midjourney](https://midjourney.com) work. It then takes any image I create and send it automatically to the Airtable database that I created along with the prompt that was used and a few other details.
 
+If you are struggling with the same issue, and want to supercharge your [Midjourney](https://midjourney.com) workflows, here are the steps to create you own Discord bot that sends your [Midjourney](https://midjourney.com) images and prompts to [Airtable](https://airtable.com).
 
 ## Prerequisites
 
